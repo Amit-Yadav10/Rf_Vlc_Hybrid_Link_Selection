@@ -1,5 +1,4 @@
-# Rf_Vlc_Hybrid_Link_Selection
-Utility-Driven Intelligent Link Selection for Link aggregated VLC-RF Platooning under Weather Impairments
+
 
 
 # 🚗📡💡 RF-VLC Hybrid Link Selection using Machine Learning
